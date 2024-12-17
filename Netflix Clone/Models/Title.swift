@@ -1,9 +1,4 @@
-//
-//  Movie.swift
-//  Netflix Clone
-//
-//  Created by Amr Hossam on 08/12/2021.
-//
+
 
 import Foundation
 

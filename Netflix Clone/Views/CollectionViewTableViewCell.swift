@@ -1,9 +1,3 @@
-//
-//  CollectionViewTableViewCell.swift
-//  Netflix Clone
-//
-//  Created by Amr Hossam on 21/11/2021.
-//
 
 import UIKit
 
